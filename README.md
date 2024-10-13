@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [MrLanter Solution]()
+- Live Site URL: [MrLanter Live Site](https://mrlanter.github.io/Four-card-feature-section/)
 
 ## My process
 
