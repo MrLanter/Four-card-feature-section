@@ -1,0 +1,33 @@
+.top-page {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+    margin-top: 4rem;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px;
+
+    .sub-title {
+        color: $Very-Dark-Blue;
+        font-weight: 200;
+        font-size: clamp(1.1rem, 1.3rem + 1vw, 1.8rem);
+    }
+
+    .title {
+        color: $Very-Dark-Blue;
+        font-weight: 600;
+        font-size: clamp(1.1rem, 1.3rem + 1vw, 1.9rem);
+        margin-top: 15px;
+    }
+
+    .description {
+        margin-top: 15px;
+        text-align: center;
+        color: $Grayish-Blue;
+        line-height: 1.6;
+        padding: 15px;
+        font-size: clamp(0.8rem, 0.9rem + 1vw, 1rem);
+        max-width: 550px;
+    }
+}
